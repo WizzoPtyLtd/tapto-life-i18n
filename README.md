@@ -4,7 +4,7 @@ Translation files for the TapTo Life app. All translation authors are credited i
 
 - French/Français
   -  Seexelas
--  Dutch/Nederlands
+- Dutch/Nederlands
   - Phoenix
 - Korean/한국어
   - Pink Melon
